@@ -1,14 +1,15 @@
 ---
-title: "Forty by HTML5 UP"
-layout: "base.njk"
+layout: base.njk
+title: Forty by HTML5 UP
 templateEngineOverride: njk,md
+draft: true
 ---
-
 <!-- Banner -->
+
 <section id="banner" class="major">
     <div class="inner">
         <header class="major">
-            <h1>Hi, my name is Forty</h1>
+            <h1>Hi, my name is Forty One</h1>
         </header>
         <div class="content">
             <p>A responsive site template designed by HTML5 UP<br />
@@ -21,6 +22,7 @@ templateEngineOverride: njk,md
 </section>
 
 <!-- Main -->
+
 <div id="main">
     <section id="one" class="tiles">
         <article>
