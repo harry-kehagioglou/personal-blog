@@ -2,7 +2,7 @@
 layout: base.njk
 title: Forty by HTML5 UP
 templateEngineOverride: njk,md
-draft: true
+draft: false
 ---
 <!-- Banner -->
 
@@ -17,6 +17,7 @@ draft: true
             <ul class="actions">
                 <li><a href="#one" class="button next scrolly">Get Started</a></li>
             </ul>
+<img src="/assets/images/Panathinaikos-football-seal.png" alt="" />
         </div>
     </div>
 </section>
@@ -28,7 +29,6 @@ draft: true
         <article>
             <span class="image">
                 <img src="/assets/images/pic01.jpg" alt="" />
-<img src="/assets/images/Panathinaikos-football-seal.png" alt="" />
             </span>
             <header class="major">
                 <h3><a href="/landing/" class="link">Aliquam</a></h3>
