@@ -13,6 +13,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets/css");    
     eleventyConfig.addPassthroughCopy("assets/js");
     eleventyConfig.addPassthroughCopy("assets/webfonts");
+    eleventyConfig.addPassthroughCopy("admin/");
     
   
     // Filter to retrieve a random blog post

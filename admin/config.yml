@@ -1,0 +1,18 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
+media_folder: "/assets/images/" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/assets/images/" # The src attribute for uploaded media will begin with /images/uploads
+
+collections: # A list of collections the CMS should be able to edit
+  - name: 'base' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Base' # Used in the UI
+    folder: 'src'
+    fields: # The fields each document in this collection have
+      - { label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
