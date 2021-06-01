@@ -28,6 +28,7 @@ draft: true
         <article>
             <span class="image">
                 <img src="/assets/images/pic01.jpg" alt="" />
+<img src="/assets/images/Panathinaikos-football-seal.png" alt="" />
             </span>
             <header class="major">
                 <h3><a href="/landing/" class="link">Aliquam</a></h3>
