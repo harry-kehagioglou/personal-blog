@@ -17,7 +17,6 @@ draft: false
             <ul class="actions">
                 <li><a href="#one" class="button next scrolly">Get Started</a></li>
             </ul>
-<img src="/assets/images/Panathinaikos-football-seal.png" alt="" />
         </div>
     </div>
 </section>
