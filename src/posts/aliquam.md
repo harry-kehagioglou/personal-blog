@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+title: Aliquam
 ---
 
 <section id="banner" class="style2">
