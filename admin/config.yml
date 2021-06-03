@@ -23,4 +23,5 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - { label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - { label: "Title", name: "title", widget: "string"}
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
