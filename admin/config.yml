@@ -20,15 +20,10 @@ collections: # A list of collections the CMS should be able to edit
     label: 'Posts'
     folder: 'src/posts'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - { label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'desc', widget: 'string' }
       - { label: 'Description 2', name: 'desc2', widget: 'string' }
-      - { label: 'Section 1 Title', name: 'section_1_title', widget: 'string' }
-      - { label: 'Section 1 Description', name: 'section_1_desc', widget: 'string' }
-      - { label: "Section 2.1 Image", name: "section_21_img", widget: "image" }
-      - { label: 'Section 2.1 Title', name: 'section_21_title', widget: 'string' }
-      - { label: 'Section 2.1 Description', name: 'section_21_desc', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }

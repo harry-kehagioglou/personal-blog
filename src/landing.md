@@ -41,13 +41,13 @@ templateEngineOverride: njk,md
                     </header>
                     <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
                     <ul class="actions">
-                        <li><a href="generic.html" class="button">Learn more</a></li>
+                        <li><a href="/generic" class="button">Learn more</a></li>
                     </ul>
                 </div>
             </div>
         </section>
         <section>
-            <a href="generic.html" class="image">
+            <a href="/generic" class="image">
                 <img src="/assets/images/pic09.jpg" alt="" data-position="top center" />
             </a>
             <div class="content">
@@ -63,7 +63,7 @@ templateEngineOverride: njk,md
             </div>
         </section>
         <section>
-            <a href="generic.html" class="image">
+            <a href="/generic" class="image">
                 <img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
             </a>
             <div class="content">
