@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Landing
-desc: Lorem ipsum dolor sit amet nullam consequat
+desc: Lorem ipsum dolor sit amet nullam consequat dghhfgfghfgfjfjf
 desc1: sed veroeros. tempus adipiscing nulla.
 desc2: Lorem ipsum dolor sit amet nullam consequat. sed veroeros. tempus
   adipiscing nulla.
