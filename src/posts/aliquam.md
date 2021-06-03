@@ -11,10 +11,11 @@ desc1: "sed veroeros. tempus adipiscing nulla."
             <img src="/assets/images/pic07.jpg" alt="" />
         </span>
         <header class="major">
-            <h1>{{ title }}</h1>
+            <h1>Landing</h1>
         </header>
         <div class="content">
-            <p>{{ desc }}<br /> {{ desc1 }}</p>
+            <p>Lorem ipsum dolor sit amet nullam consequat<br />
+            sed veroeros. tempus adipiscing nulla.</p>
         </div>
     </div>
 </section>
