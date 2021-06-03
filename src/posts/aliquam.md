@@ -6,7 +6,7 @@ title: Aliquam
 <section id="banner" class="style2">
     <div class="inner">
         <span class="image">
-            <img src="/assets/images/pic07.jpg" alt="" />
+            <img src="/assets/images/pic07.jpg" style="display: none" alt="" />
         </span>
         <header class="major">
             <h1>Landing</h1>
