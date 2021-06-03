@@ -1,6 +1,5 @@
 ---
 layout: base.njk
-title: Landing1
 ---
 
 <section id="banner" class="style2">
