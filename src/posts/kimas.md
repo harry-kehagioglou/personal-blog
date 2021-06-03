@@ -1,6 +1,6 @@
 ---
-layout: base.njk
-title: Aliquam
+layout: post
+title: Kimas
 ---
 
 <section id="banner" class="style2">
@@ -12,11 +12,7 @@ title: Aliquam
             <h1>Landing</h1>
         </header>
         <div class="content">
-            <p>Lorem ipsum dolor sit amet nullam consequat<br />
-            sed veroeros. tempus adipiscing nulla.Lorem ipsum dolor sit amet nullam consequat<br />
-            sed veroeros. tempus adipiscing nulla.Lorem ipsum dolor sit amet nullam consequat<br />
-            sed veroeros. tempus adipiscing nulla.Lorem ipsum dolor sit amet nullam consequat<br />
-            sed veroeros. tempus adipiscing nulla.</p>
+            <p>Oti na nai me kima</p>
         </div>
     </div>
 </section>
